@@ -1,0 +1,452 @@
+[
+  {
+    "company": "Friesen Inc",
+    "position": "Research Associate",
+    "jobLocation": "Iowa",
+    "jobType": "contract",
+    "status": "offer",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-06-28T22:06:40Z"
+  },
+  {
+    "company": "Prohaska-Crooks",
+    "position": "Developer II",
+    "jobLocation": "Minnesota",
+    "jobType": "full-time",
+    "status": "declined",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-07-23T17:53:24Z"
+  },
+  {
+    "company": "Friesen, Ferry and Littel",
+    "position": "Engineer I",
+    "jobLocation": "Florida",
+    "jobType": "part-time",
+    "status": "declined",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-06-16T20:00:25Z"
+  },
+  {
+    "company": "Schuppe-Graham",
+    "position": "Executive Secretary",
+    "jobLocation": "Texas",
+    "jobType": "contract",
+    "status": "offer",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-07-26T10:47:29Z"
+  },
+  {
+    "company": "Murphy, King and Wyman",
+    "position": "Food Chemist",
+    "jobLocation": "Florida",
+    "jobType": "full-time",
+    "status": "offer",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-08-04T19:03:58Z"
+  },
+  {
+    "company": "Wisoky-Cassin",
+    "position": "Recruiter",
+    "jobLocation": "Oklahoma",
+    "jobType": "full-time",
+    "status": "offer",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-08-22T11:47:31Z"
+  },
+  {
+    "company": "Wintheiser, Mann and Schulist",
+    "position": "Paralegal",
+    "jobLocation": "California",
+    "jobType": "contract",
+    "status": "offer",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-07-17T03:29:34Z"
+  },
+  {
+    "company": "Daugherty-Stark",
+    "position": "Civil Engineer",
+    "jobLocation": "Louisiana",
+    "jobType": "part-time",
+    "status": "interview",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-06-12T02:57:13Z"
+  },
+  {
+    "company": "Schaefer Inc",
+    "position": "Account Representative II",
+    "jobLocation": "Indiana",
+    "jobType": "full-time",
+    "status": "offer",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-08-11T05:48:18Z"
+  },
+  {
+    "company": "Hickle, Pagac and Hauck",
+    "position": "Financial Advisor",
+    "jobLocation": "Illinois",
+    "jobType": "contract",
+    "status": "offer",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-05-11T20:54:18Z"
+  },
+  {
+    "company": "Adams Group",
+    "position": "Web Developer II",
+    "jobLocation": "Maryland",
+    "jobType": "contract",
+    "status": "interview",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-06-16T10:39:45Z"
+  },
+  {
+    "company": "Macejkovic-Lowe",
+    "position": "Registered Nurse",
+    "jobLocation": "Indiana",
+    "jobType": "full-time",
+    "status": "offer",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-08-17T06:53:22Z"
+  },
+  {
+    "company": "Lehner, Toy and Powlowski",
+    "position": "Senior Financial Analyst",
+    "jobLocation": "Oregon",
+    "jobType": "full-time",
+    "status": "offer",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-06-04T11:47:14Z"
+  },
+  {
+    "company": "Becker, Schiller and O'Hara",
+    "position": "Assistant Professor",
+    "jobLocation": "Colorado",
+    "jobType": "full-time",
+    "status": "interview",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-08-03T07:12:48Z"
+  },
+  {
+    "company": "Gerhold, Roob and Miller",
+    "position": "Social Worker",
+    "jobLocation": "Texas",
+    "jobType": "part-time",
+    "status": "pending",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-08-22T13:01:51Z"
+  },
+  {
+    "company": "Waelchi-Harris",
+    "position": "Speech Pathologist",
+    "jobLocation": "Oklahoma",
+    "jobType": "full-time",
+    "status": "declined",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-08-09T07:56:03Z"
+  },
+  {
+    "company": "Aufderhar-Altenwerth",
+    "position": "Analog Circuit Design manager",
+    "jobLocation": "California",
+    "jobType": "full-time",
+    "status": "declined",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-05-27T08:50:15Z"
+  },
+  {
+    "company": "Yost, Brakus and Frami",
+    "position": "Financial Analyst",
+    "jobLocation": "Georgia",
+    "jobType": "part-time",
+    "status": "declined",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-06-17T14:20:55Z"
+  },
+  {
+    "company": "Hyatt LLC",
+    "position": "Health Coach I",
+    "jobLocation": "Alabama",
+    "jobType": "full-time",
+    "status": "offer",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-05-11T11:06:04Z"
+  },
+  {
+    "company": "Bailey-Wolf",
+    "position": "Business Systems Development Analyst",
+    "jobLocation": "North Dakota",
+    "jobType": "contract",
+    "status": "declined",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-06-07T13:53:58Z"
+  },
+  {
+    "company": "Stamm, Ebert and O'Connell",
+    "position": "Product Engineer",
+    "jobLocation": "Nebraska",
+    "jobType": "part-time",
+    "status": "interview",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-05-23T22:19:44Z"
+  },
+  {
+    "company": "King and Sons",
+    "position": "Data Coordinator",
+    "jobLocation": "Texas",
+    "jobType": "full-time",
+    "status": "offer",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-06-03T09:53:57Z"
+  },
+  {
+    "company": "Parker-Rogahn",
+    "position": "Associate Professor",
+    "jobLocation": "California",
+    "jobType": "contract",
+    "status": "pending",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-06-11T02:48:15Z"
+  },
+  {
+    "company": "Rodriguez, Swift and Glover",
+    "position": "Community Outreach Specialist",
+    "jobLocation": "Texas",
+    "jobType": "full-time",
+    "status": "pending",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-08-10T16:52:08Z"
+  },
+  {
+    "company": "Block, Osinski and Cormier",
+    "position": "Recruiter",
+    "jobLocation": "Ohio",
+    "jobType": "full-time",
+    "status": "offer",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-07-03T02:30:26Z"
+  },
+  {
+    "company": "Hilll, Bashirian and Zemlak",
+    "position": "Social Worker",
+    "jobLocation": "Ohio",
+    "jobType": "contract",
+    "status": "interview",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-06-21T20:03:07Z"
+  },
+  {
+    "company": "Pollich-Rutherford",
+    "position": "Quality Engineer",
+    "jobLocation": "Colorado",
+    "jobType": "full-time",
+    "status": "interview",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-06-03T05:41:02Z"
+  },
+  {
+    "company": "Kirlin and Sons",
+    "position": "Marketing Manager",
+    "jobLocation": "Michigan",
+    "jobType": "part-time",
+    "status": "declined",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-07-04T08:28:28Z"
+  },
+  {
+    "company": "Schamberger-Schimmel",
+    "position": "VP Marketing",
+    "jobLocation": "Virginia",
+    "jobType": "contract",
+    "status": "offer",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-06-23T04:35:12Z"
+  },
+  {
+    "company": "Boyer, Streich and Halvorson",
+    "position": "Structural Analysis Engineer",
+    "jobLocation": "Maryland",
+    "jobType": "full-time",
+    "status": "interview",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-07-05T20:52:14Z"
+  },
+  {
+    "company": "Jakubowski, Treutel and Schuster",
+    "position": "Automation Specialist IV",
+    "jobLocation": "Nevada",
+    "jobType": "contract",
+    "status": "pending",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-06-14T11:58:45Z"
+  },
+  {
+    "company": "Fay, Heidenreich and Turcotte",
+    "position": "Social Worker",
+    "jobLocation": "Tennessee",
+    "jobType": "full-time",
+    "status": "pending",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-06-20T11:32:29Z"
+  },
+  {
+    "company": "Kuhn-Marks",
+    "position": "Staff Accountant II",
+    "jobLocation": "Minnesota",
+    "jobType": "contract",
+    "status": "offer",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-06-12T21:16:59Z"
+  },
+  {
+    "company": "Luettgen-Cummerata",
+    "position": "Marketing Assistant",
+    "jobLocation": "Texas",
+    "jobType": "part-time",
+    "status": "declined",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-07-05T21:05:49Z"
+  },
+  {
+    "company": "Bins-Skiles",
+    "position": "Compensation Analyst",
+    "jobLocation": "Ohio",
+    "jobType": "part-time",
+    "status": "interview",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-08-17T07:52:47Z"
+  },
+  {
+    "company": "West LLC",
+    "position": "Mechanical Systems Engineer",
+    "jobLocation": "Oklahoma",
+    "jobType": "contract",
+    "status": "offer",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-08-03T20:40:15Z"
+  },
+  {
+    "company": "Willms, Leannon and Kassulke",
+    "position": "Web Developer III",
+    "jobLocation": "Colorado",
+    "jobType": "part-time",
+    "status": "pending",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-06-24T16:58:58Z"
+  },
+  {
+    "company": "Jacobi, Dare and Runolfsdottir",
+    "position": "Marketing Assistant",
+    "jobLocation": "Colorado",
+    "jobType": "full-time",
+    "status": "declined",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-06-06T01:39:50Z"
+  },
+  {
+    "company": "Gutmann-Rosenbaum",
+    "position": "Environmental Tech",
+    "jobLocation": "District of Columbia",
+    "jobType": "full-time",
+    "status": "offer",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-08-10T01:39:18Z"
+  },
+  {
+    "company": "Waelchi-Stamm",
+    "position": "Web Developer IV",
+    "jobLocation": "Arizona",
+    "jobType": "full-time",
+    "status": "declined",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-05-30T22:55:10Z"
+  },
+  {
+    "company": "Champlin-Mayert",
+    "position": "Account Coordinator",
+    "jobLocation": "Missouri",
+    "jobType": "contract",
+    "status": "interview",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-06-06T18:57:03Z"
+  },
+  {
+    "company": "Crooks-Carroll",
+    "position": "Director of Sales",
+    "jobLocation": "Virginia",
+    "jobType": "contract",
+    "status": "declined",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-08-10T11:50:12Z"
+  },
+  {
+    "company": "Greenholt LLC",
+    "position": "Staff Scientist",
+    "jobLocation": "Colorado",
+    "jobType": "part-time",
+    "status": "offer",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-06-28T11:01:45Z"
+  },
+  {
+    "company": "Reilly, Towne and Cronin",
+    "position": "Research Nurse",
+    "jobLocation": "Florida",
+    "jobType": "part-time",
+    "status": "interview",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-07-14T20:16:06Z"
+  },
+  {
+    "company": "Walsh-Collier",
+    "position": "Community Outreach Specialist",
+    "jobLocation": "California",
+    "jobType": "full-time",
+    "status": "pending",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-05-20T21:48:27Z"
+  },
+  {
+    "company": "Runolfsdottir-Bahringer",
+    "position": "Occupational Therapist",
+    "jobLocation": "Kansas",
+    "jobType": "part-time",
+    "status": "offer",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-06-17T03:36:03Z"
+  },
+  {
+    "company": "Nikolaus-Buckridge",
+    "position": "Software Test Engineer IV",
+    "jobLocation": "Florida",
+    "jobType": "contract",
+    "status": "offer",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-08-22T10:39:39Z"
+  },
+  {
+    "company": "Strosin Group",
+    "position": "Help Desk Operator",
+    "jobLocation": "Nebraska",
+    "jobType": "part-time",
+    "status": "pending",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-07-25T20:13:00Z"
+  },
+  {
+    "company": "Leannon and Sons",
+    "position": "VP Quality Control",
+    "jobLocation": "Connecticut",
+    "jobType": "full-time",
+    "status": "declined",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-05-25T21:09:20Z"
+  },
+  {
+    "company": "Gerlach, Halvorson and Kutch",
+    "position": "Junior Executive",
+    "jobLocation": "Texas",
+    "jobType": "contract",
+    "status": "interview",
+    "createdBy": "64e8b97259be537074aadc98",
+    "createdAt": "2023-05-21T04:08:39Z"
+  }
+]
