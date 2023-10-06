@@ -13,7 +13,7 @@ Offers: Keep details of jobs that you have applied to
 
 🛠️ Technology Stack
 
-Frontend: React.js
-Backend: Node.js, Express.js
-Database: MongoDB
+Frontend: React.js  
+Backend: Node.js, Express.js  
+Database: MongoDB  
 
