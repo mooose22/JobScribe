@@ -6,11 +6,11 @@ This is a full-stack job search tracker application built with the MERN (MongoDB
 
 🎯 Features  
 
+Simplify Your Search: Easily log and manage your job applications all in one place.
+
 Job Applications: Track where you’ve applied and the application’s status.
 
-Interviews: Record upcoming interviews, feedback, and outcomes.
-
-Offers: Keep details of jobs that you have applied to
+Visualize Your Progress: Use interactive charts to visualize your job search progress.
 
 
 🛠️ Technology Stack
