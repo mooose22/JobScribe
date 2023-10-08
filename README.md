@@ -1,4 +1,6 @@
-🚀 JobScribe
+🚀 JobScribe 
+
+https://jobscribe.onrender.com/
 
 📔 Overview 
 
@@ -6,7 +8,7 @@ This is a full-stack job search tracker application built with the MERN (MongoDB
 
 🎯 Features  
 
-Simplify Your Search: Easily log and manage your job applications all in one place.
+Simplify Your Search: Create an account and easily log and manage your job applications all in one place.
 
 Job Applications: Track where you’ve applied and the application’s status.
 
